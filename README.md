@@ -38,7 +38,7 @@ The following EXTRA features are implemented:
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-<img src='https://imgur.com/a/NFh2gKi.gif' title='Iminabo Video Demo' width='500' alt='Video Demo' />
+<img src='https://i.imgur.com/IRSfA9j.gif' title='Iminabo Video Demo' width='500' alt='Video Demo' />
 
 GIF created with **your chosen GIF tool**
 
